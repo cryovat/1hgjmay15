@@ -12,4 +12,4 @@ The game is terrible and controls badly. It also looks amazing:
 
 ## How to play
 
-You're better off looking at the screenshot above. Otherwise, run Love2D at the src folder. :-)
+You're better off looking at the screenshot above. Otherwise, install Love2D and run [this file](https://github.com/cryovat/1hgjmay15/raw/master/build/game.love).
