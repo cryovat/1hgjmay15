@@ -1,6 +1,6 @@
-# Ludum Dare 1HGJ
+# 1HGJ#5 Entry
 
-This is an entry for the Ludum Dare 1 Hour Gamejam on May 15th 2015. Titled "Eyes of flight"
+This is an entry for the [1 Hour Game Jam](http://weekjam.com/)  on May 15th 2015. Titled "Eyes of flight"
 and backed by some incredibly bad math, the game is intended to be played with an Tobii EyeX
 eye tracker in the "make cursor snap to eye fixation point" mode.
 
