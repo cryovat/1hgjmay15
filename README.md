@@ -8,4 +8,4 @@ You try to keep flying by picking up looking at yellow things (or moving the mou
 
 The game is terrible and controls badly. It also looks amazing:
 
-![screenshot](https://raw.githubusercontent.com/cryovat/1hgjmay15/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/cryovat/1hgjmay15/master/screenshot.gif)
