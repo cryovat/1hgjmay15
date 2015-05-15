@@ -12,4 +12,4 @@ The game is terrible and controls badly. It also looks amazing:
 
 ## How to play
 
-You're better off looking at the screenshot above. Otherwise, install Love2D and run [this file](https://github.com/cryovat/1hgjmay15/raw/master/build/game.love).
+You're better off looking at the screenshot above. Otherwise, install Love2D and run [this file](https://github.com/cryovat/1hgjmay15/raw/master/build/game.love). Unless you're Swedish and running a live stream, in that case; [click here](https://github.com/cryovat/1hgjmay15/raw/master/build/game-bitslap-edition.love).
